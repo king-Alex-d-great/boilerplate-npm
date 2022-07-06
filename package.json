@@ -1,4 +1,8 @@
 {
+	"author": {
+		"name": "Ogubuike Alex",
+		"email": "ogubuikealex@gmail.com"
+	},
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
